@@ -38,10 +38,10 @@ We trained and tested multiple machine learning models on a **public BBC News da
 ## 🏗 Implementation  
 
 ###  Model Training (Jupyter Notebook)  
-[News Articles Sorting - Jupyter Notebook](https://github.com/ujjwalkar0/News-Article-Sorting/blob/main/Notebook/News%20Articles%20Sorting.ipynb)  
+[News Articles Sorting - Jupyter Notebook](https://github.com/Naveen-jangid/News_Article_Sorting/blob/15aeccaaf214ffbc61865d06df59adc5290f59f4/News_Articles_Sorting.ipynb)  
 
 ###  Web Interface & REST API  
-[Deployed Web Interface](https://github.com/Uncoded-AI/Website/)  
+[Deployed Web Interface](https://news-article-sorting-754r.onrender.com)  
  
 ---
 

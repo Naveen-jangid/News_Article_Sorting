@@ -35,7 +35,7 @@ We trained and tested multiple machine learning models on a **public BBC News da
 - **Article** - News article text  
 - **Category** - Label of the article (**Tech, Business, Sport, Entertainment, Politics**)  
 
-## 🏗 Implementation  
+## Implementation  
 
 ###  Model Training (Jupyter Notebook)  
 [News Articles Sorting - Jupyter Notebook](https://github.com/Naveen-jangid/News_Article_Sorting/blob/15aeccaaf214ffbc61865d06df59adc5290f59f4/News_Articles_Sorting.ipynb)  
@@ -120,7 +120,7 @@ git push origin main
 
 ---
 
-## 🛠 Technologies Used  
+## Technologies Used  
 - **Python**   
 - **Flask**   
 - **Machine Learning (Naïve Bayes, TF-IDF)**   

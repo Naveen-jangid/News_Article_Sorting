@@ -1,4 +1,4 @@
-News Article Sorting  
+## News Article Sorting  
 
 ## Abstract  
 In today’s digital era, the internet is flooded with vast amounts of news from various sources. With the ever-growing demand for information, **automated news classification** is crucial to help users access relevant content efficiently.  

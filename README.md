@@ -108,15 +108,17 @@ git push origin main
   "prediction": "Business"
 }
 ```
+![image](https://github.com/user-attachments/assets/37859bd5-9675-416f-b64a-58b42e568fd0)
+![image](https://github.com/user-attachments/assets/6c04510c-5d9e-4ae0-be8f-be3b6f44b253)
 
 ---
 
 ## Documentation  
- **High-Level Overview:** [Google Docs](https://docs.google.com/document/d/1f4_BJspf6wXsawMi1vHoZkMkk4PWjFlPsZHTI2_bP-E/edit?usp=sharing)  
- **Low-Level Documentation:** [Google Docs](https://docs.google.com/document/d/1n0RJkNYiCL0B-QmsyrFOrA6blMN4L5ELcA2IBU7fGjU/edit?usp=sharing)  
- **System Architecture:** [Architecture Document](https://docs.google.com/document/d/1QlN0c_42aEuHt3pdqmaKYR5gsiQbyJvYRwRLL3E3F3Y/edit?usp=sharing)  
- **Wireframe & UI Design:** [Wireframe Document](https://docs.google.com/document/d/1bx3jvYHALnrLafYu9zvsOHpIUuvJNixxue7Ta968AXU/edit?usp=sharing)  
- **Project Report:** [Detailed Report](https://docs.google.com/presentation/d/1RGH8av_n46_2G2Kv7Ta1wzvdRq097lw-/edit?usp=sharing)  
+ **High-Level Overview:** [Google Docs](https://docs.google.com/document/d/1_O5jjssenEaPWzLetzS88bDILzdFb8r3/edit?usp=drive_link&ouid=110161944854525864991&rtpof=true&sd=true)  
+ **Low-Level Documentation:** [Google Docs](https://docs.google.com/document/d/1exAaeCQaQqn2tYfirrgChFdOt94nfBFJ/edit?usp=drive_link&ouid=110161944854525864991&rtpof=true&sd=true)  
+ **System Architecture:** [Architecture Document](https://docs.google.com/document/d/1I9uThHjJJZp4rOPlevdT2o8qovE3ZY3M/edit?usp=drive_link&ouid=110161944854525864991&rtpof=true&sd=true)  
+ **Wireframe & UI Design:** [Wireframe Document](https://docs.google.com/document/d/1Ls6TJ8-FXJeEW14UHHqV4dyKeGoBNbUt/edit?usp=drive_link&ouid=110161944854525864991&rtpof=true&sd=true)  
+ **Project Report:** [Detailed Report](https://docs.google.com/presentation/d/1qZKCw8JrrLZurPeF1NmOJfDCyA6zJTHV/edit?usp=drive_link&ouid=110161944854525864991&rtpof=true&sd=true)  
 
 ---
 
